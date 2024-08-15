@@ -3,7 +3,7 @@
 # based on `add` or `edit` actions.
 # By dawoud
 
-# git rm -rf --cached .
+git rm -rf --cached .
 rm -rf .idea
 
 # Function to stage changes, commit with the generated message, and push
