@@ -3,5 +3,7 @@
 0x00-python_variable_annotations/myenv
 0x00-python_variable_annotations/.mypy_cache
 0x00-python_variable_annotations/__pycache__
-0x01-python_async_function/*main.piy
+0x01-python_async_function/*main.py
+0x01-python_async_function/__pycache__
 0x02-python_async_comprehension/*main.py
+0x02-python_async_comprehension/__pycache__
